@@ -10,7 +10,7 @@
 
 Simple notebook to compress files & folders in Google Drive using Google Colab.
 
-xxx
+<a href="https://colab.research.google.com/github/iykex/GDrive-ZipTar7z/blob/main/GDrive_ZipTar7z.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
 
 ### Tutorial
 
